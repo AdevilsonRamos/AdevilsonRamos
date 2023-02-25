@@ -1,5 +1,5 @@
 ### Olá sou Adevilson Ramos<br>
-**Estudande de Front-end**, pela escola **Alura**.
+**Estudande de Front-end**, pela escola de tecnologica **Alura**.
 ##
 <div>
 <picture>
