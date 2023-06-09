@@ -6,7 +6,7 @@
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=AdevilsonRamos&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
-/>
+/>..........
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=adevilsonramos&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
@@ -18,8 +18,8 @@
 ##
 
 <div style="display: inline_block"><br>
-<!--<img align="center" alt="Ade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <--<img align="center" alt="Ade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Ade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
